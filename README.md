@@ -1,1 +1,1 @@
-your employers website public key opens it
+your employer's website public key opens it
